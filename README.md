@@ -1,6 +1,10 @@
-`goit-markup-hw-01`
-
 # Introduction to HTML
+
+## About
+
+This is the homework for the Introduction to HTML topic, according to the task below.
+
+The solution includes only the markup, without any CSS styles.
 
 ## Task
 
@@ -13,5 +17,5 @@
 
 Following is a part of the solution to the task:
 * This repository.
-* HTML markup of the page layout in [index.html](./index.html) file, including images in `images` folder.
+* HTML markup of the page layout in [index.html](./index.html) file, including images in the `images` folder.
 * HTML style are monitored by [Prettier plugin](https://prettier.io/) for VS Code . Its settings are located in the `.prettierrc` configuration file.
